@@ -1,0 +1,27 @@
+{
+  "name": "uf1846_prova_practica_2024-11-05_enunciat",
+  "version": "0.0.1",
+  "description": "Ejercicio evaluación continua",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch  ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khristian79/examenUF1846_Prova_practica_2024-11-05.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express"
+  ],
+  "author": "Cristian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khristian79/examenUF1846_Prova_practica_2024-11-05/issues"
+  },
+  "homepage": "https://github.com/khristian79/examenUF1846_Prova_practica_2024-11-05#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
